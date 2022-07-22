@@ -1,0 +1,21 @@
+{
+  "name": "diquinhas",
+  "version": "0.0.1",
+  "description": "leitura e criação de dicas aleatórias",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "dicas",
+    "CRUD"
+  ],
+  "author": "Mirna Tetzner",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
